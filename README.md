@@ -5,16 +5,18 @@
 # Netflix Clone using ReactJs
 A Netflix clone built using Reactjs. It fetches data for movies and its trailer from TMDB API key and Youtube.
 
-## Screenshot
-![Demo](/public/assets/demo.gif)
+# Screenshot
+<div align="center">
+<a href="https://netflix-sclone.netlify.app" target="_blank"><img  src='./demo/ezgif-1-2a6c90cdd6.gif' alt='image'/></a>
+</div>
 <br />
 <br />
 
-## Built with
+# Built with
 * Reactjs
 * TMDB
 
-## Link
+# Deployed Link
 
 The app is deployed using Netlify at [Netflix Clone Link](https://netflix-clone-v3.netlify.app/)
 
