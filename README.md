@@ -6,7 +6,7 @@
 A Netflix clone built using Reactjs. It fetches data for movies and its trailer from TMDB API key and Youtube.
 
 ## Demo
-![Demo](/public/assets/demo.gif)
+![Demo](images/netflixc.gif)
 <br />
 <br />
 
