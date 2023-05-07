@@ -17,7 +17,6 @@
 </div>
 
 <br />
-<br />
 
 # Built with
 * Reactjs
@@ -30,7 +29,6 @@
 - Custom toolbar to make editing easier
 - Live Preview
 - Auto save of work
-- Download the file Readme.md file
 
 
 #### `npm start`
