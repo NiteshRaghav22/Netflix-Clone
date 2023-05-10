@@ -24,11 +24,9 @@
 * TMDB
 
 ## Features
-
-- Supports Html Tags
-- Custom toolbar to make editing easier
-- Live Preview
-- Auto save of work
+- Single Page layout
+- Different Movies sections
+- Fully responsive
 
 
 #### `npm start`
